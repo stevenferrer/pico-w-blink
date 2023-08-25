@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+      "name": "Pico",
+      "includePath": ["${workspaceFolder}/**", "/Users/sf/pico/pico-sdk/**"]
+    }
+  ],
+  "version": 4
+}
